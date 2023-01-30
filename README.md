@@ -1,2 +1,2 @@
-# LeetCode-Solutions
-LeetCode Problems 
+# DSA-Solutions
+This repository contains both leetcode and hackerrank solutions
